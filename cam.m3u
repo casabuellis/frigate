@@ -14,3 +14,6 @@ http://192.168.178.163:1984/api/stream.mp4?src=giardino
 
 #EXTINF:-1,Camera GarageEsterno
 http://192.168.178.163:1984/api/stream.mp4?src=garageEsterno
+
+#EXTINF:-1,Mosaico
+http://192.168.178.163:1984/api/stream.mp4?src=mosaico
