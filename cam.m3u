@@ -7,7 +7,7 @@ http://192.168.178.163:1984/api/stream.mp4?src=fronte
 http://192.168.178.163:1984/api/stream.mp4?src=retro
 
 #EXTINF:-1,Camera Gazebo
-http://192.168.178.163:1984/api/stream.mp4?src=gazebo
+http://192.168.178.163:1984/api/stream.mp4?src=gazebo_sub
 
 #EXTINF:-1,Camera Giardino
 http://192.168.178.163:1984/api/stream.mp4?src=giardino
