@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,Camera Fronte
+http://192.168.178.163:1984/api/stream.mp4?src=fronte
