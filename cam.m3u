@@ -1,3 +1,16 @@
 #EXTM3U
+
 #EXTINF:-1,Camera Fronte
 http://192.168.178.163:1984/api/stream.mp4?src=fronte
+
+#EXTINF:-1,Camera Retro
+http://192.168.178.163:1984/api/stream.mp4?src=retro
+
+#EXTINF:-1,Camera Gazebo
+http://192.168.178.163:1984/api/stream.mp4?src=gazebo
+
+#EXTINF:-1,Camera Giardino
+http://192.168.178.163:1984/api/stream.mp4?src=giardino
+
+#EXTINF:-1,Camera GarageEsterno
+http://192.168.178.163:1984/api/stream.mp4?src=garageEsterno
